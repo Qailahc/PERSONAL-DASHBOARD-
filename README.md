@@ -1,1 +1,1 @@
-Person Dashboard Project
+Personal Dashboard Project
